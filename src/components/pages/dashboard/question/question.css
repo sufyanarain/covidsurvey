@@ -1,0 +1,11 @@
+.questionDiv{
+    background-color: rgb(203, 228, 219);
+    width: 800px;
+    padding: 40px 10px;
+    margin: auto;
+    /* display: flex; */
+    /* flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around; */
+}
+

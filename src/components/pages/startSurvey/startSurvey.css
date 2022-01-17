@@ -1,0 +1,36 @@
+
+
+.displayQuestions{
+    background-color: aquamarine;
+    width: 690px;
+    height: 380px;
+    padding: 10px 20px;
+    margin: auto;
+    /* position: relative; */
+}
+
+.displayQuestions h5{
+    margin-top: 10px;
+}
+
+.quest{
+    margin: 10px 0px;
+}
+
+.radioGroup{
+    margin: 20px;
+}
+
+.nextBtn{
+position: fixed !important;
+top: 460px;
+left: 450px;
+}
+
+.checkBoxDiv{
+    margin: 20px 0px;
+}
+
+.checkBoxes{
+    padding-top: 20px;
+}
