@@ -3,7 +3,7 @@ import { MinusCircleOutlined, PlusOutlined } from '@ant-design/icons';
 import './question.css'
 import { useState } from 'react';
 import { doc, setDoc, serverTimestamp } from "firebase/firestore";
-import { db } from '../../../firebase';
+import {db} from '../../../components/firebase'
 
 
 

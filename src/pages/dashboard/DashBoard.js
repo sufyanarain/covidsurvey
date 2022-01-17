@@ -1,5 +1,5 @@
 import React from 'react'
-import Nav from '../../nav/Nav'
+import Nav from '../../components/nav/Nav'
 import Question from './question/Question'
 import './dashboard.css'
 import StartSurvey from '../startSurvey/StartSurvey'

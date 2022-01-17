@@ -1,11 +1,11 @@
-import Login from "./components/pages/login/Login";
-import DashBoard from "./components/pages/dashboard/DashBoard";
+import Login from "./pages/login/Login";
+import DashBoard from "./pages/dashboard/DashBoard";
 import {
   BrowserRouter,
   Routes as BrowserRoutes,
   Route
 } from "react-router-dom";
-import StartSurvey from "./components/pages/startSurvey/StartSurvey";
+import StartSurvey from "./pages/startSurvey/StartSurvey";
 
 function App() {
   return (

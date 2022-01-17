@@ -1,8 +1,8 @@
 
 import React, { useEffect, useState } from 'react';
 import { doc, onSnapshot } from "firebase/firestore";
-import { db } from '../../firebase';
-import Nav from '../../nav/Nav';
+import { db } from '../../components/firebase';
+import Nav from '../../components/nav/Nav';
 import './startSurvey.css'
 import { Button, Radio, Checkbox, Input, Typography } from 'antd';
 

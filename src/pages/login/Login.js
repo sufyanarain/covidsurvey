@@ -2,7 +2,7 @@ import React from "react";
 import { Form, Input, Button } from "antd";
 import { Row, Col } from "antd";
 import { signInWithEmailAndPassword } from "firebase/auth";
-import { auth } from "../../firebase";
+import { auth } from "../../components/firebase";
 import { Link, useNavigate } from "react-router-dom";
 
 const SignIn = () => {
